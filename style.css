@@ -1,0 +1,115 @@
+html,
+body,
+div,
+span,
+object,
+h1,
+h2,
+h3,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+fieldset,
+form,
+label,
+footer,
+input,
+header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+input,
+select {
+  vertical-align: middle;
+}
+body {
+  line-height: 1;
+  background-image: radial-gradient(
+      rgba(0, 32, 36, 0.5) 10%,
+      rgba(14, 121, 9, 1) 100%
+    ),
+    url(http://www.pixelstalk.net/wp-content/uploads/2016/10/Nature-background-free-download.jpg);
+  background-position: center top;
+  background-size: cover;
+  text-align: center;
+  margin: auto;
+  min-height: 98vh;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+h1 {
+  font-size: 3.15rem;
+  padding: 10.5%;
+  border-bottom: 0.46rem solid #00bc4b;
+  padding-bottom: 1.5%;
+  width: 22%;
+  min-width: 9.2rem;
+  margin: auto;
+  color: #efefef;
+}
+form {
+  margin: auto;
+  margin-top: 4.4%;
+  padding-top: 2%;
+  width: 45%;
+  font-size: 1.3rem;
+}
+input {
+  display: block;
+  width: 100%;
+  line-height: 200%;
+  margin: auto;
+  margin-bottom: 6.2%;
+  border-bottom: #00bc4b solid 0.18rem;
+  background-color: transparent;
+  color: #efefef;
+}
+button {
+  margin: auto;
+  display: block;
+  width: 100%;
+  line-height: 300%;
+  margin-top: 13%;
+  border: #00bc4b solid 0.18rem;
+  background-color: transparent;
+  border-radius: 0.5rem;
+  color: #efefef;
+}
+input::placeholder {
+  color: #efefef;
+  opacity: 0.8;
+}
+input:focus::placeholder {
+  font-weight: bold;
+}
