@@ -1,3 +1,5 @@
+# Live version : https://rami24t.github.io/uib-data-transparent-login-Rami24t/ (responsive)
+
 # Transparent Login
 
 Create and style a form as shown in the mockup below.
@@ -13,5 +15,3 @@ Create and style a form as shown in the mockup below.
 - All inputs are transparent
 
 - The placeholder should be bold on field selection
-
-- Use **Font-Awesome** icons for the input fields
