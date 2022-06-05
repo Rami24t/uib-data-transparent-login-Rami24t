@@ -70,25 +70,25 @@ body {
 }
 h1 {
   font-size: 3.15rem;
-  padding: 10.5%;
+  padding: 10vh 10vw;
   border-bottom: 0.46rem solid #00bc4b;
-  padding-bottom: 1.5%;
-  width: 22%;
-  min-width: 9.2rem;
+  padding-bottom: 1.5vh;
+  width: 22vh;
+  min-width: 9.2vh;
   margin: auto;
   color: #efefef;
 }
 form {
   margin: auto;
-  margin-top: 4.4%;
-  padding-top: 2%;
-  width: 45%;
+  margin-top: 4.4vh;
+  padding-top: 2vh;
+  width: 45vw;
   font-size: 1.3rem;
 }
 input {
   display: block;
   width: 100%;
-  line-height: 200%;
+  line-height: 2;
   margin: auto;
   margin-bottom: 6.2%;
   border-bottom: #00bc4b solid 0.18rem;
@@ -99,7 +99,7 @@ button {
   margin: auto;
   display: block;
   width: 100%;
-  line-height: 300%;
+  line-height: 3;
   margin-top: 13%;
   border: #00bc4b solid 0.18rem;
   background-color: transparent;
@@ -113,11 +113,11 @@ input::placeholder {
 input:focus::placeholder {
   font-weight: bold;
 }
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 700px) {
   form {
     margin: auto;
-    margin-top: 32%;
-    padding-top: 2%;
-    width: 80%;
+    margin-top: 32vh;
+    padding-top: 2vh;
+    width: 80vw;
   }
 }
