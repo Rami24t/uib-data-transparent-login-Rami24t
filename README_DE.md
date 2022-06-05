@@ -13,5 +13,3 @@ Erstelle und gestalte ein Formular wie im Mockup unten gezeigt.
 - Alle Eingaben sind transparent
 
 - Der Platzhalter sollte bei der Feldauswahl fett sein
-
-- Verwende **Font-Awesome**-Symbole für die Eingabefelder

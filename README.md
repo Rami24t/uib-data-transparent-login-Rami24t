@@ -13,5 +13,3 @@ Create and style a form as shown in the mockup below.
 - All inputs are transparent
 
 - The placeholder should be bold on field selection
-
-- Use **Font-Awesome** icons for the input fields
